@@ -1,0 +1,4 @@
+{
+  "extends": ["eslint-config-canonical", "eslint-config-canonical/react"],
+  "root": true
+}

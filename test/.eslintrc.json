@@ -1,0 +1,10 @@
+{
+  "extends": "eslint-config-canonical/mocha",
+  "rules": {
+    "filenames/match-regex": [
+      2,
+      "^[A-Z]?[a-z]+(?:[A-Z][a-z]+)*(\\.[a-z]+)*$",
+      false
+    ]
+  }
+}
